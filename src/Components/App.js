@@ -1,11 +1,15 @@
-
-
-function App() {
+import React from 'react'
+import Navbar from './Navbar/Navbar'
+import './index.css'
+import Header from './Header/Header'
+const App = () => {
   return (
-    <div >
-      <h1>Sudharsanan Portfolio</h1>
+    <div>
+      <Navbar/>
+      <Header/>
     </div>
-  );
+
+  )
 }
 
-export default App;
+export default App
