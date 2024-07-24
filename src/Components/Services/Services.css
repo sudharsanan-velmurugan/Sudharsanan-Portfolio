@@ -6,7 +6,15 @@
     border-radius: 5px;
     padding: 20px;
 }
-
+.services-desc-container p {
+    width: 100%;
+    margin-bottom: 1em;
+    line-height: 1.5;
+    text-align: justify;
+}
+span{
+    font-weight: b;
+}
 .services-item{
     margin: 20px;
     border-radius: 16px;

@@ -45,12 +45,12 @@ const Header = () => {
                     <i className='fa-brands fa-cc-amex'></i>
                     
                 </div> */}
-            <div className='header-payment-container'>
+            {/* <div className='header-payment-container'>
                 <FontAwesomeIcon icon={faPaypal} className='fa-brands-paypal' />
                 <FontAwesomeIcon icon={faCcVisa} className='fa-brands-visa' />
                 <FontAwesomeIcon icon={faCcMastercard} className='fa-brands-mastercard' />
                 <FontAwesomeIcon icon={faCcAmex} className='fa-brands-amex' />
-            </div>
+            </div> */}
             </div>
             <div className="profile-img-container">
                 <img

@@ -11,7 +11,7 @@ const Footer = () => {
             </div>
             <div className="footer-copyright">
                 <p>
-                    2024 © Sudharsanan, All Rght reserved
+                    2024 © Sudharsanan, All Right reserved
                 </p>
             </div>
             <ul className='footer-social-media'>
